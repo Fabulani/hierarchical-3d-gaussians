@@ -1,6 +1,15 @@
 # Usage with Docker
 
+> [!NOTE] Close with --recursive!
+
+```sh
+git clone https://github.com/Fabulani/hierarchical-3d-gaussians.git --recursive
+cd hierarchical-3d-gaussians
+```
+
 > [!WARNING] You must be logged in to Github Container Registry. Otherwise, build the image from scratch.
+
+---
 
 Pull image from the Github Container Registry:
 
