@@ -1,6 +1,6 @@
 # Usage with Docker
 
-> [!NOTE] Close with --recursive!
+> [!NOTE] Clone with --recursive!
 
 ```sh
 git clone https://github.com/Fabulani/hierarchical-3d-gaussians.git --recursive
