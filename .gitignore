@@ -6,7 +6,3 @@ tensorboard_3d
 screenshots
 
 data
-submodules\Depth-Anything-V2\checkpoints
-submodules\Depth-Anything-V2\depth_anything_v2\__pycache__
-submodules\Depth-Anything-V2\depth_anything_v2\dinov2_layers
-submodules\Depth-Anything-V2\depth_anything_v2\utils
